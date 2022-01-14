@@ -1,5 +1,6 @@
 asn1crypto==0.24.0
 backports.entry-points-selectable==1.1.1
+Brlapi==0.6.6
 cachelib==0.4.1
 certifi==2021.10.8
 chardet==3.0.4
